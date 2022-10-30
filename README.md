@@ -1,4 +1,5 @@
-# macular hole detection
+# macular hole detection (Not maintained)
+
 The repository contains python implementation of macular hole detection from fundus images and classification into it's stages.
 
 ### Running the classification code
